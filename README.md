@@ -36,5 +36,3 @@ After the backup process, the restoring process is executed.
 *It can help scale resources and meet the need of growing business data.
 *Boost efficiency and effectiveness of the system.
 
-## PROJECT COMPLETED TILL NOW:
-Project has been completed and we are focussing on the accuracy of the system.
