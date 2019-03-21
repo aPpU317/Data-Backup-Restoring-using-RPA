@@ -1,8 +1,9 @@
                                              DATA BACKUP AND RESTORING USING RPA
 Team Number: 24
-Team Members: K.Piraivendhan(15CSA44)
-              N.Revathi     (15CSA49)
-              R.Sreerag     (15CSA57)
+<li>Team Members:</li>
+  <li>K.Piraivendhan(15CSA44)</li>
+  <li>N.Revathi     (15CSA49)</li>
+  <li>R.Sreerag     (15CSA57)</li>
  ABSTRACT:
 Data backup is the process of backing up the data, refers to copying the data into an archive file of computer data so it may be used to restore the original after a data loss event. Backups have two distinct purposes. The primary purpose is to recover data after its loss, it can be data deletion or corruption. Data loss can be a common experience of computer users while transferring the data. 
 The secondary purpose of backups is to recover data from an earlier time, according to a user-defined data retention policy, typically configured within a backup application for how long copies of data are required.These processes can be fully automated with the RPA solutions by providing them with the required credentials, source and destination details for the whole task to be automated. 
